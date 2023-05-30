@@ -2,6 +2,7 @@
 //import seminar2.Task2;
 import Seminar3.Task1;
 
+
 //import java.util.logging.Level;
 //import java.util.logging.Logger;
 
@@ -30,11 +31,17 @@ public class main {
         //       task1.prim5();
         //       task1.prim6();
 //        task1.prim7();
-        Task1 task1 = new Task1();
+//        Task1 task1 = new Task1();
 //        task1.prim1();
  //       task1.prim2();
  //       task1.prim3();
-        task1.prim4();
+//        task1.prim4();
+
+        // Лекция 4
+//        Task1 task1 = new Task1();
+//        task1.prim();
+//        task1.prim1();
+
 
     }
 
